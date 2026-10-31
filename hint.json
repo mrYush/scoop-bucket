@@ -1,0 +1,25 @@
+{
+    "version": "0.3.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/mrYush/hint/releases/download/v0.3.1/hint_0.3.1_windows_amd64.zip",
+            "bin": [
+                "hint.exe"
+            ],
+            "hash": "70a55122f81be62a9ec046e47c1bb5fd13058a11ffd038f0c5cb7577ca2e73a7"
+        },
+        "arm64": {
+            "url": "https://github.com/mrYush/hint/releases/download/v0.3.1/hint_0.3.1_windows_arm64.zip",
+            "bin": [
+                "hint.exe"
+            ],
+            "hash": "d775b83fe072939ba86bd1d31608c6bf5d319652c9fdca327e6cb5b65b9a7b6a"
+        }
+    },
+    "homepage": "https://github.com/mrYush/hint",
+    "license": "MIT",
+    "description": "Context-aware CLI assistant that reads, edits and runs your project",
+    "depends": [
+        "ripgrep"
+    ]
+}
