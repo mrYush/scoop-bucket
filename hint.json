@@ -1,19 +1,19 @@
 {
-    "version": "0.3.1",
+    "version": "0.3.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/mrYush/hint/releases/download/v0.3.1/hint_0.3.1_windows_amd64.zip",
+            "url": "https://github.com/mrYush/hint/releases/download/v0.3.2/hint_0.3.2_windows_amd64.zip",
             "bin": [
                 "hint.exe"
             ],
-            "hash": "70a55122f81be62a9ec046e47c1bb5fd13058a11ffd038f0c5cb7577ca2e73a7"
+            "hash": "15e7791272ab60cadf9c5e2947ef880fe36faa17e8ebc5ecffaba8b81927f0fa"
         },
         "arm64": {
-            "url": "https://github.com/mrYush/hint/releases/download/v0.3.1/hint_0.3.1_windows_arm64.zip",
+            "url": "https://github.com/mrYush/hint/releases/download/v0.3.2/hint_0.3.2_windows_arm64.zip",
             "bin": [
                 "hint.exe"
             ],
-            "hash": "d775b83fe072939ba86bd1d31608c6bf5d319652c9fdca327e6cb5b65b9a7b6a"
+            "hash": "fbded0fb5ab51c8f940b8f2dd7cc9aac1b59d54fd26ef4e79f22edf67acf9734"
         }
     },
     "homepage": "https://github.com/mrYush/hint",
